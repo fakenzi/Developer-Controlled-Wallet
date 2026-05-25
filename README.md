@@ -10,7 +10,7 @@
 使用 Circle 官方 SDK 开发者控制钱包（Developer Controlled / Agent Wallet）
 一键初始化钱包 + 自动保存配置到 .env
 专为 Arc Testnet 优化：USDC 作为原生 Gas Token，无需额外 Gas 代币
-自动领取测试网 USDC + 发送转账
+支持ARC 测试网  发送转账
 自动等待链上确认并显示 Arcscan Explorer 链接
 安全使用 .env 配置，适合快速原型和 AI Agent 开发
 
