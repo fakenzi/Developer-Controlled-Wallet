@@ -1,4 +1,3 @@
-# Circle-DevWallet-QuickStart
 
 🚀 **Circle Developer Controlled Wallets（Agent Wallet）快速上手工具包**
 
@@ -31,5 +30,9 @@ pip install -r requirements.txt
 cp .env.example .env
 ### 4. 初始化钱包
 python init.wallet.py
+<img width="865" height="546" alt="03dac7c9deabb1f1c7feedf388a1a19c" src="https://github.com/user-attachments/assets/bfd225bf-30f8-4d71-9e58-d94e9d1c3018" />
+
 ### 5. 发送usdc 
 python send_usdc.py
+
+<img width="865" height="734" alt="383db8ab54c0b1630c327d327ea7b6ce" src="https://github.com/user-attachments/assets/d1a99935-3a47-4ad6-a618-a86e7e89bf06" />
