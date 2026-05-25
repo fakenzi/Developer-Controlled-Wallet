@@ -1,5 +1,5 @@
 
-🚀 **Circle Developer Controlled Wallets（Agent Wallet）快速上手工具包**
+🚀 ** Circle Developer Controlled Wallets（Agent Wallet）Arc Testnet 快速上手工具包**
 
 5 分钟完成钱包初始化、测试网 USDC 领取与转账。
 
@@ -7,13 +7,14 @@
 
 ## ✨ 项目特点
 
-- 使用 Circle 官方 SDK 开发者控制钱包（Agent Wallet）
-- 一键初始化钱包 + 自动保存配置到 `.env`
-- 支持测试网 USDC 转账
-- 自动等待链上确认并显示 Explorer 链接
-- 安全使用 `.env` 配置
+使用 Circle 官方 SDK 开发者控制钱包（Developer Controlled / Agent Wallet）
+一键初始化钱包 + 自动保存配置到 .env
+专为 Arc Testnet 优化：USDC 作为原生 Gas Token，无需额外 Gas 代币
+自动领取测试网 USDC + 发送转账
+自动等待链上确认并显示 Arcscan Explorer 链接
+安全使用 .env 配置，适合快速原型和 AI Agent 开发
 
----
+
 
 ## 🚀 快速开始
 
